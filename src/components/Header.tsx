@@ -4,7 +4,7 @@ import { Navbar, Container } from 'react-bootstrap';
 const Header: React.FC = () => {
     return (
         <header className="border-bottom">
-            <Navbar expand="md" variant="light">
+            <Navbar expand="xs" variant="light">
                 <Container fluid>
                     <Navbar.Brand href="#">
                         <img

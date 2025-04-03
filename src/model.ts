@@ -1,4 +1,4 @@
-const ra = '' // TODO: replace with your RA
+const ra = '11202321828' // TODO: replace with your RA
 const host = 'https://todo-server-spa-748269297649.southamerica-east1.run.app/api' 
 
 export { ra, host };
